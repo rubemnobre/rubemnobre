@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on optimization and embedded systems.
-- 🌱 I’m currently learning Electronics Engineering.
 - 👯 I’m looking to collaborate on interesting projects involving engineering, especially in C/C++ and Python.
 - 📫 How to reach me: rubemjrx@hotmail.com
 
