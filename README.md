@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I’m currently working on robotics and embedded systems.
-- I’m looking to collaborate on interesting projects involving engineering, especially in C/C++ and Python.
+- I’m currently working with signal processing and FPGAs.
 - How to reach me: rubemjrx@hotmail.com
 
 ![](https://github.com/rubemnobre/stats/blob/master/generated/overview.svg)
